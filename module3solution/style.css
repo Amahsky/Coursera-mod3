@@ -34,7 +34,7 @@ body {
 #collapsable-nav a span {
     margin-right: 5px;
 }
-#nav-list a:active {
+#nav-list a: active {
 	border: 1px solid black;
 
 }
@@ -45,7 +45,7 @@ body {
 	
 
 }
-#nav-list a:hover {
+#nav-list a: hover {
 	background-color: pink;
 }
 
